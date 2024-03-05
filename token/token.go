@@ -25,6 +25,9 @@ const (
 	LT = "<"
 	RT = ">"
 
+	EQ     = "=="
+	NOT_EQ = "!="
+
 	// 구분자
 	COMMA     = ","
 	SEMICOLON = ";"
